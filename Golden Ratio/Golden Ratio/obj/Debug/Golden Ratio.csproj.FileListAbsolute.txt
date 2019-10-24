@@ -1,0 +1,9 @@
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\bin\Debug\Golden Ratio.exe.config
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\bin\Debug\Golden Ratio.exe
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\bin\Debug\Golden Ratio.pdb
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden Ratio.csprojAssemblyReference.cache
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden_Ratio.FRM_phi.resources
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden_Ratio.Properties.Resources.resources
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden Ratio.csproj.GenerateResource.cache
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden Ratio.exe
+C:\Users\Hector\source\repos\Golden Ratio\Golden Ratio\obj\Debug\Golden Ratio.pdb
